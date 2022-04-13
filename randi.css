@@ -1,0 +1,40 @@
+body {
+	background-color: #FCFCFC;
+}
+
+.online-bar {
+	color: #FF0000;
+}
+
+.online-bar2 {
+	color: #38F90D;
+}
+
+.levi-gif {
+	background-image: url("images/tenor.gif");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-color: #FCFCFC;
+	height: 350px;
+	background-size: 250px;
+
+}
+
+.footer {
+	text-align: center;
+	color: #F90D0D;
+}
+
+div {
+	font-size: 20px;
+	text-align: center;
+}
+
+.judul {
+	color: #E1D9D8;
+	text-align: center;
+}
+
+hr {
+	width: 50%;
+}
